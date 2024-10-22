@@ -1,4 +1,4 @@
 server:
-  port: 8082
+  port: 8081
 
-mensaje: "Hola Microservicio Producto"
+mensaje: "Hola Microservicio Course"
